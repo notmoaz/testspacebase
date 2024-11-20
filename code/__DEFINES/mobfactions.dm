@@ -77,6 +77,8 @@
 #define FACTION_STATUE "statue"
 /// Stick creatures summoned by the Paperwizard, and the wizard themselves
 #define FACTION_STICKMAN "stickman"
+///Faction for plague doctor and his zombies
+#define FACTION_PLAGUE "plague"
 /// Creatures ignored by various turrets
 #define FACTION_TURRET "turret"
 /// Vines, lots of overlap with plants
