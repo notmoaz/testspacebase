@@ -1,7 +1,7 @@
 ///ripped from paper wizard code
 /mob/living/simple_animal/hostile/plaguedoctor/plague_doctor
 	name = "The Plague Doctor"
-	desc = "A mysterious figure with a birdmask and a tattered, old black coat ."
+	desc = "A mysterious figure with a birdmask and a long tattered black coat ."
 	mob_biotypes = MOB_ORGANIC|MOB_HUMANOID
 	faction = list(FACTION_HOSTILE, FACTION_PLAGUE)
 	gender = MALE

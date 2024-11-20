@@ -8,10 +8,10 @@
 	spell_requirements = NONE
 	cooldown_time = 15 SECONDS
 	summon_type = list(
-		/mob/living/simple_animal/hostile/zombie/minion_zombies/zombieprisoner,
-		/mob/living/simple_animal/hostile/zombie/minion_zombies/zombielguard,
-		/mob/living/simple_animal/hostile/zombie/minion_zombies/zombiehguard,
-		/mob/living/simple_animal/hostile/zombie/minion_zombies/zombiescientist,
+		/mob/living/simple_animal/hostile/minion_zombies/zombieprisoner,
+		/mob/living/simple_animal/hostile/minion_zombies/zombielguard,
+		/mob/living/simple_animal/hostile/minion_zombies/zombiehguard,
+		/mob/living/simple_animal/hostile/minion_zombies/zombiescientist,
 	)
 	summon_radius = 1
 	summon_amount = 2
