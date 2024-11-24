@@ -83,7 +83,8 @@
 #define FACTION_VINES "vines"
 /// Tamed creatures
 #define FACTION_TAMED "tamed"
-
+///Creates associated with plague doctor
+#define FACTION_PLAGUE "plague"
 // Antagonist factions
 
 /// Cultists and their constructs
