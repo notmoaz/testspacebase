@@ -460,3 +460,10 @@
 	suffix = "infested_frigate.dmm"
 	name = "SYN-C Brutus"
 	description = "This wasn't an outbreak, this was a repelled attack."
+
+/datum/map_template/ruin/space/abandoned_scp_site
+	id = "abandoned_scp_site"
+	suffix = "abandonedunknown_site2.dmm"
+	name = "Abandoned Containment Site"
+	description = "A forgotten containment site that once held anomalies deep in space, now a relic of man's hubris.  \
+	The smell of death emanates from this ruin..."
