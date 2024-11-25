@@ -10358,9 +10358,6 @@
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/containment1)
 "MV" = (
-/obj/item/reagent_containers/cup/glass/waterbottle{
-	list_reagents = s
-	},
 /mob/living/basic/space_fauna/plague_doc/minion_zombies/zombiescientist,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/cafeteria)
