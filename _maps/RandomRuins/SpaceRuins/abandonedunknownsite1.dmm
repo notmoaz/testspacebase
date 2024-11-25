@@ -10383,7 +10383,7 @@
 	pixel_y = 47
 	},
 /obj/item/paper/crumpled/bloody/fluff/stations{
-	default_raw_text = "Fuck this is the end for me... These bastards at this "foundation" kept me here for years and now it ends like this...<br><i> The writing in blood trails off the paper after the text</i>";
+	default_raw_text = "Fuck this is the end for me... These bastards at this 'foundation' kept me here for years and now it ends like this...<br><i> The writing in blood trails off the paper after the text</i>";
 	name = "The End";
 	pixel_y = 16
 	},
