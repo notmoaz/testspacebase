@@ -8992,8 +8992,7 @@
 /obj/structure/table/wood/fancy/royalblack,
 /obj/item/reagent_containers/cup/glass/bottle/whiskey{
 	pixel_y = 12;
-	pixel_x = -16;
-	list_reagents = s
+	pixel_x = -16
 	},
 /obj/item/reagent_containers/cup/glass/drinkingglass{
 	pixel_x = 1;
