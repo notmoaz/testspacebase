@@ -197,12 +197,10 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/containment1)
 "aK" = (
-/obj/structure/window/reinforced{
-	dir = 1
-	},
 /obj/structure/table/reinforced,
 /obj/structure/barricade/wooden/crude,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/north,
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/brig)
 "aL" = (
@@ -843,6 +841,7 @@
 /area/ruin/space/has_grav/abandonedscpsite/hczhall)
 "dr" = (
 /obj/structure/cable,
+/obj/structure/cable,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/maintenance)
 "ds" = (
@@ -901,15 +900,13 @@
 /area/ruin/space/has_grav/abandonedscpsite/containment2)
 "dB" = (
 /obj/structure/table/reinforced,
-/obj/structure/window/reinforced{
-	dir = 8
-	},
 /obj/machinery/button/door{
 	id = "checkpoint2";
 	pixel_x = 1;
 	pixel_y = 1
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/west,
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/hcz2)
 "dE" = (
@@ -1351,11 +1348,11 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/maintenance)
 "fk" = (
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "fl" = (
@@ -2275,14 +2272,12 @@
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/brig)
 "it" = (
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south{
-	dir = 4
-	},
 /obj/structure/filingcabinet,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/decal/cleanable/blood/gibs/down,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/east,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "ix" = (
@@ -2985,7 +2980,6 @@
 /area/ruin/space/has_grav/abandonedscpsite/containment1)
 "lh" = (
 /obj/structure/table/reinforced,
-/obj/structure/table/reinforced,
 /obj/machinery/computer/pod/old{
 	pixel_y = 1
 	},
@@ -3393,12 +3387,10 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prison)
 "mJ" = (
-/obj/structure/window/reinforced{
-	dir = 4
-	},
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisonguard)
 "mK" = (
@@ -3608,14 +3600,12 @@
 /area/ruin/space/has_grav/abandonedscpsite/containment1)
 "nB" = (
 /obj/structure/table/reinforced,
-/obj/structure/window/reinforced{
-	dir = 4
-	},
 /obj/machinery/button/door{
 	id = "checkpoint1";
 	pixel_x = 1;
 	pixel_y = 1
 	},
+/obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/hcz1)
 "nC" = (
@@ -3935,11 +3925,9 @@
 /area/ruin/space/has_grav/abandonedscpsite/lounge)
 "oS" = (
 /obj/structure/table/reinforced,
-/obj/structure/window/reinforced{
-	dir = 4
-	},
 /obj/item/storage/medkit/civil_defense/stocked,
 /obj/effect/mapping_helpers/broken_floor,
+/obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/brig)
 "oU" = (
@@ -4612,12 +4600,6 @@
 /obj/machinery/light/small/red/dim/directional/west,
 /turf/open/floor/iron/white/textured,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
-"rj" = (
-/obj/effect/spawner/structure/window/reinforced,
-/obj/effect/mapping_helpers/damaged_window,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/ruin/space/has_grav/abandonedscpsite/containment1)
 "rk" = (
 /obj/machinery/airalarm/directional/west,
 /obj/structure/chair{
@@ -4698,7 +4680,6 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite)
 "rw" = (
-/obj/structure/cable,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -5081,11 +5062,11 @@
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/abandonedscpsite/prisoncafe)
 "sP" = (
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /obj/structure/table,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/decal/cleanable/blood,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "sQ" = (
@@ -6196,15 +6177,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/lcz1)
-"xh" = (
-/obj/structure/cable,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/iron/white,
-/area/ruin/space/has_grav/abandonedscpsite/ezhall)
 "xj" = (
 /obj/item/trash/candy,
 /obj/effect/decal/cleanable/dirt,
@@ -6603,7 +6575,6 @@
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/hcz2)
 "yL" = (
-/obj/structure/table,
 /obj/structure/table,
 /obj/item/flashlight/lamp{
 	pixel_y = 8
@@ -8130,12 +8101,12 @@
 /obj/item/kirbyplants/random{
 	pixel_y = 9
 	},
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/west,
 /obj/effect/mapping_helpers/apc/cell_5k,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/south,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "EJ" = (
@@ -8722,13 +8693,11 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisoncafe)
 "GP" = (
-/obj/structure/window/reinforced{
-	dir = 4
-	},
 /mob/living/basic/space_fauna/plague_doc/minion_zombies/zombielguard,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisonguard)
 "GW" = (
@@ -10774,9 +10743,6 @@
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/enterance)
 "OI" = (
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south{
-	dir = 4
-	},
 /obj/structure/table,
 /obj/item/phone{
 	pixel_y = 1;
@@ -10784,6 +10750,7 @@
 	},
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/east,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "OJ" = (
@@ -10892,9 +10859,6 @@
 /area/ruin/space/has_grav/abandonedscpsite/maintenance)
 "OZ" = (
 /obj/structure/table/reinforced,
-/obj/structure/window/reinforced{
-	dir = 8
-	},
 /obj/effect/mapping_helpers/damaged_window,
 /obj/machinery/button/door{
 	id = "d2";
@@ -10903,6 +10867,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/west,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisonguard)
 "Pc" = (
@@ -11891,8 +11856,6 @@
 /obj/effect/decal/cleanable/blood/footprints,
 /obj/effect/decal/cleanable/blood/footprints,
 /obj/structure/cable,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/airalarm/directional/east,
@@ -12328,13 +12291,11 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/hcz1)
 "TZ" = (
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south{
-	dir = 4
-	},
 /obj/structure/table,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/decal/cleanable/blood,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/east,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "Ua" = (
@@ -12438,9 +12399,6 @@
 /area/ruin/space/has_grav/abandonedscpsite/cafeteria)
 "Uu" = (
 /obj/structure/table/reinforced,
-/obj/structure/window/reinforced{
-	dir = 8
-	},
 /obj/effect/mapping_helpers/damaged_window,
 /obj/machinery/button/door{
 	id = "dcells";
@@ -12448,6 +12406,7 @@
 	pixel_y = 1
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/west,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisonguard)
 "Uv" = (
@@ -13305,13 +13264,11 @@
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/containment2)
 "XP" = (
-/obj/structure/window/reinforced{
-	dir = 4
-	},
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisonguard)
 "XR" = (
@@ -13479,12 +13436,10 @@
 /turf/open/floor/iron/dark/textured,
 /area/ruin/space/has_grav/abandonedscpsite/containment1)
 "Yo" = (
-/obj/structure/window/reinforced/survival_pod/spawner/directional/south{
-	dir = 4
-	},
 /obj/structure/filingcabinet,
 /obj/effect/decal/cleanable/blood,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/east,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/office2)
 "Yp" = (
@@ -13536,9 +13491,6 @@
 /area/ruin/space/has_grav/abandonedscpsite/medbay)
 "YC" = (
 /obj/structure/table/reinforced,
-/obj/structure/window/reinforced{
-	dir = 8
-	},
 /obj/effect/mapping_helpers/damaged_window,
 /obj/machinery/button/door{
 	id = "d1";
@@ -13547,6 +13499,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/window/reinforced/spawner/directional/west,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/abandonedscpsite/prisonguard)
 "YE" = (
@@ -13779,7 +13732,6 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/abandonedscpsite/hcz1)
 "Zx" = (
-/obj/structure/table/reinforced,
 /obj/structure/table/reinforced,
 /obj/item/folder/red,
 /obj/effect/decal/cleanable/dirt,
@@ -16962,7 +16914,7 @@ yQ
 NQ
 zW
 vy
-rj
+hF
 dS
 fm
 MF
@@ -17424,7 +17376,7 @@ aH
 ik
 gx
 lB
-xh
+ev
 at
 sK
 eO
