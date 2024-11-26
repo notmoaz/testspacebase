@@ -4617,10 +4617,7 @@
 /obj/effect/mapping_helpers/damaged_window,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/ruin/space/has_grav/abandonedscpsite/containment1{
-	mood_message = "This area is shit!"
-	}
-)
+/area/ruin/space/has_grav/abandonedscpsite/containment1)
 "rk" = (
 /obj/machinery/airalarm/directional/west,
 /obj/structure/chair{
